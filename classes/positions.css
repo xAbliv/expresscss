@@ -1,0 +1,10 @@
+/* Express CSS (POSITION STYLES) - Made by xAbliv */
+
+.flxWrp-wrp{flex-wrap: wrap;} .flxWrp-noWrp{flex-wrap: nowrap;} .flxWrp-wrpRev{flex-wrap: wrap-reverse;}
+.flxFlow{flex-flow: row wrap;}
+.jstfyCont-center{justify-content: center;} .jstfyCont-start{justify-content: flex-start;} .jstfyCont-end{justify-content: flex-end;} .jstfyCont-around{justify-content: space-around;} .jstfyCont-between{justify-content: space-between;}
+.alnItms-center{align-items: center;} .alnItms-start{align-items: flex-start;} .alnItms-end{align-items: flex-end;} .alnItms-stretch{align-items: stretch;} .alnItms-baseln{align-items: baseline;}
+.alnCont-between{align-content: space-between;} .alnCont-around{align-content: space-around;} .alnCont-stretch{align-content: stretch;} .alnCont-center{align-content: center;} .alnCont-start{align-content: flex-start;} .alnCont-end{align-content: flex-end;}
+.alnSelf-start{align-self: flex-start;} .alnSelf-end{align-self: flex-end;} .alnSelf-center{align-self: center;}
+.fltL{float: left;} .fltR{float: right;} .fltNone{float: none;} .fltIn{float: inherit;}
+.flxCenter {display: flex; align-items: center; justify-content: center;} .absoluteCenter{position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);}
