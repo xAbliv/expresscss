@@ -1,0 +1,14 @@
+/* Express CSS (TEXT STYLES) - Made by xAbliv */
+
+.clrBlue{color:blue;} .clrRed{color:red;} .clrGrey{color:grey;} .clrBlk{color:black;} .clrWhite{color:white;} .clrYellow{color:yellow;}
+.txtAln-r{text-align: right;} .txtAln-cntr{text-align: center;} .txtAln-l{text-align: left;}
+.txtDec-none{text-decoration: none;} .txtDec-under{text-decoration: underline;}
+.txtTrans-upper{text-transform: uppercase;} .txtTrans-lower{text-transform: lowercase;} .txtTrans-cap{text-transform: capitalize;}
+.ws-nowrap{white-space: nowrap;}
+.fntSize-1em{font-size: 1em;} .fntSize-2em{font-size: 2em;} fntSize-3em{font-size: 3em;}
+.txtOvrFlw-clip{text-overflow: clip;} txtOvrFlw-elip{text-overflow: ellipsis;}
+.wrdWrp-breakWrd{word-wrap: break-word;}
+.wrdBreak-keepAll{word-break: keep-all;} .wrdBreak-breakAll{word-break: break-all;}
+.ovrFlw-visi{overflow: visible;} .ovrFlw-hide{overflow: hidden;} .ovrFlw-scroll{overflow: scroll;} ovrFlw-auto{overflow: auto;}
+.ovrFlwX-visi{overflow-x: visible;} .ovrFlwX-hide{overflow-x: hidden;} .ovrFlwX-scroll{overflow-x: scroll;} ovrFlwX-auto{overflow-x: auto;}
+.ovrFlwY-visi{overflow-y: visible;} .ovrFlwY-hide{overflow-y: hidden;} .ovrFlwY-scroll{overflow-y: scroll;} ovrFlwY-auto{overflow-y: auto;}
