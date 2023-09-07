@@ -12,6 +12,6 @@
 .brdRad5{border-radius: 5px;} .brdRad10{border-radius: 10px;} .brdRad15{border-radius: 15px;} .brdRad20{border-radius: 20px;} .brdRad25{border-radius: 25px;} .brdRad50{border-radius: 50%;}
 .brd1blk{border: 1px solid black;} .brd5blk{border: 5px solid black;} .brd1red{border: 1px solid red;} .brd5red{border: 5px solid red;} .brd1blue{border: 1px solid blue;} .brd5blue{border: 5px solid blue;}
 .bgBlue{background-color: blue;} .bgRed{background-color: red;} .bgGrey{background-color: grey} .bgBlk{background-color: black;} .bgWhite{background-color: white;} .bgYellow{background-color: yellow;} .bgTransp{background-color: transparent;}
-.outlClr-red{outline-color: red;} .outlClr-blue{outline-color: blue;} outlClr-grey{outline-color: grey;} .outlClr-white{outline-color: white;} .outlClr-blk{outline-color: black;}
+.outlClr-red{outline-color: red;} .outlClr-blue{outline-color: blue;} .outlClr-grey{outline-color: grey;} .outlClr-white{outline-color: white;} .outlClr-blk{outline-color: black;}
 .outlStyle-dotted{outline-style: dotted;} .outlStyle-dashed{outline-style: dashed;} .outlStyle-solid{outline-style: solid;} .outlStyle-double{outline-style: double;} .outlStyle-groove{outline-style: groove;} outlStyle-ridge{outline-style: ridge;} .outlStyle-inset{outline-style: inset;} outlStyle-outset{outline-style: outset;}
 .outlWidth-thin{outline-width: thin;} .outlWidth-med{outline-width: medium;} .outlWidth-thick{outline-width: thick;}
